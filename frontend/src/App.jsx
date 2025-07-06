@@ -1,6 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
-import Home from './home';
+import Home from "./pages/home";
 
 function App() {
   return (
