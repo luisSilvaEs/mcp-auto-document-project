@@ -1,4 +1,4 @@
-# WebApp Starter: Python + React + Docker
+# MCP GitHub Notion
 
 This repository is a starter template for building full-stack web applications using **React** (frontend), **Python** (backend), and **Docker** for containerization.
 
@@ -22,7 +22,6 @@ Use this repository as a GitHub **template**, or clone it directly:
 git clone https://github.com/your-username/webapp-starter-python-react.git
 cd webapp-starter-python-react
 ```
-
 
 ### 2. Add env files
 
